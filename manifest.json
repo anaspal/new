@@ -1,0 +1,17 @@
+{
+  "name": "StudyGuide Palestine",
+  "short_name": "StudyGuide",
+  "description": "دليل الدراسة فلسطين",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F6F1",
+  "theme_color": "#14263B",
+  "icons": [
+    {
+      "src": "assets/media/studyguide-official-logo_fc6acc46.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

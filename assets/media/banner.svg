@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="StudyGuide Palestine">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2e17"/>
+      <stop offset="0.55" stop-color="#104020"/>
+      <stop offset="1" stop-color="#315c43"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b03030"/>
+      <stop offset="1" stop-color="#d86454"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="26" fill="url(#dots)"/>
+  <circle cx="1090" cy="-20" r="190" fill="#78936a" fill-opacity="0.22"/>
+  <circle cx="90" cy="440" r="170" fill="#c09040" fill-opacity="0.18"/>
+  <rect x="0" y="0" width="1200" height="8" rx="4" fill="#c09040"/>
+  <g font-family="Tahoma, 'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="92" font-size="22" font-weight="700" fill="#e2eee4" letter-spacing="6">STUDYGUIDE PALESTINE</text>
+    <text x="600" y="178" font-size="68" font-weight="800" fill="#ffffff" direction="rtl">دليل الدراسة فلسطين</text>
+    <text x="600" y="228" font-size="25" fill="#cfe0d2" direction="rtl">منصاتك، كتبك، دعمك، وواجباتك اليومية في مكان واحد</text>
+    <rect x="450" y="266" width="300" height="70" rx="35" fill="url(#btn)"/>
+    <rect x="450" y="266" width="300" height="70" rx="35" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+    <text x="600" y="311" font-size="28" font-weight="800" fill="#ffffff" direction="rtl">ادخل الموقع الآن  ←</text>
+    <text x="600" y="376" font-size="16" fill="#9fb8a4" letter-spacing="1">anaspal.github.io/StudyGuidePalestine</text>
+  </g>
+</svg>
